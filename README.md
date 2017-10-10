@@ -3,7 +3,7 @@ Varmilo VB87M DIY
 
 DIY project for the leftover Varmilo VB87M plastic case
 
-[![](https://i.imgur.com/SN05oaYl.jpg)](https://imgur.com/a/HyMhu)
+[![](https://i.imgur.com/qXGwZiml.jpg)](https://imgur.com/a/HyMhu)
 
 Plate
 -----
@@ -12,7 +12,7 @@ Mechanical keyboards need a "plate" it should be rather precise, preferably alum
 
 Since there's no CNC or powerful lasers nearby I was trying to use low-power laser and cut plastics.
 
-First batch was [unsuccesfull](https://imgur.com/a/HyMhu) (the laser was apparently upset).
+First batch was [unsuccessfull](https://imgur.com/a/HyMhu) (the laser was apparently a little off).
 
 Maybe it would be easier just 3dprint everything, but it needs extra modelling.
 
