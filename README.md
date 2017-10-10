@@ -3,7 +3,7 @@ Varmilo VB87M DIY
 
 DIY project for the leftover Varmilo VB87M plastic case
 
-![](https://i.imgur.com/SN05oaYl.jpg)
+[![](https://i.imgur.com/SN05oaYl.jpg)](https://imgur.com/a/HyMhu)
 
 Plate
 -----
