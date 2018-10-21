@@ -2,20 +2,29 @@
 
 DIY project for the leftover Varmilo VB87M plastic case
 
+## Video
+
+[![](http://img.youtube.com/vi/AoeQSR-c1pQ/0.jpg)](https://www.youtube.com/watch?v=AoeQSR-c1pQ)
+
 ## Plate
 
-Mechanical keyboards need a "plate" it should be rather precise, preferably aluminum.
+Mechanical keyboards need a "plate" it should be rather precise, preferably 1.5 mm aluminum.
 I've used [KLE][1] and [Swillkb][2], with a standard TKL layout (with modified 0.5u distance to function keys).
-Since there's no CNC or powerful lasers nearby I was trying to use low-power laser and cut plastics.
+Spacebar cutouts are removed for rigidity, you can use swillkb to recreate them and use svg outline for case cutouts.
+
+* [KLE layout I used for swillkb](http://www.keyboard-layout-editor.com/#/gists/100ba22bee4c95727a88b61818feb6be)
+
+Since there were no CNC or powerful lasers nearby I was trying to use low-power laser and cut plastics.
 First batch was unsuccessfull (see [imgur album](https://imgur.com/a/HyMhu)), the laser was apparently a little off.
-Maybe it would be easier just 3D-print everything, but it needs extra modelling.
+The second batch was fine in terms of size but switches didn't snap, probably because of the wrong kerf.
+Case mounts seem allright though (see the pictures below).
 
 ### Download
 
 * [varmilo-vb87m-plate.svg](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.svg)
 
-(My service actually used [.cdr](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.cdr)
-but I exported it from CorelDraw to .svg. Check that cutout size is precisely 14mm!)
+(My service actually used CorelDraw [.cdr](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.cdr)
+but I exported it to .svg. Check that cutout size is precisely 14mm!)
 
 ### Dimensions
 
@@ -24,17 +33,14 @@ but I exported it from CorelDraw to .svg. Check that cutout size is precisely 14
 * Path Length: 5932 mm
 * Thickness: 1.5 mm
 
-Spacebar cutouts are removed for rigidity, you can use swillkb to recreate them and use svg outline for case cutouts.
-
-* [KLE layout I used for swillkb](http://www.keyboard-layout-editor.com/#/gists/100ba22bee4c95727a88b61818feb6be)
-
 ### Materials
 
 Preferably aluminum, then carbon steel (preferably black, anodized or galvanized)
 
-## Video
+### Laser Cutting Services
 
-[![](http://img.youtube.com/vi/AoeQSR-c1pQ/0.jpg)](https://www.youtube.com/watch?v=AoeQSR-c1pQ)
+* https://lasergist.com apparently doesn't work with sheets larger than 300 mm (60% keyboards only)
+* https://laserboost.com wants 40.05 EUR for steel and 62.58 EUR for aluminum (+13.95 EUR shipping)
 
 ## Pictures
 
@@ -63,11 +69,6 @@ See the full album here: https://imgur.com/a/HyMhu
 * [KLE (Keyboard Layout Editor)](http://www.keyboard-layout-editor.com)
 * [Plate & Case builder (swillkb)](http://builder.swillkb.com)
 * [Pro Micro mod for TKL keyboards](https://hackaday.io/project/8282-alpen-clack/log/27395-matrix)
-
-### Laser Cutting Services
-
-* https://lasergist.com apparently doesn't work with sheets larger than 300 mm (60% keyboards only)
-* https://laserboost.com wants 40.05 EUR for steel and 62.58 EUR for aluminum (+13.95 EUR shipping)
 
 [1]: http://www.keyboard-layout-editor.com
 [2]: http://builder.swillkb.com
