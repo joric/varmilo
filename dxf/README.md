@@ -11,4 +11,7 @@
 * Path Length: 5932 mm
 * Thickness: 1.5 mm
 
+## Materials
+
+Preferably aluminum, then carbon steel (preferably black anodized)
 
