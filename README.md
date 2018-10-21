@@ -21,10 +21,10 @@ Case mounts seem allright though (see the pictures below).
 
 ### Download
 
-* [varmilo-vb87m-plate.svg](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.svg)
+* [varmilo-vb87m-plate.dxf](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.dxf)
 
-(My service actually used CorelDraw [.cdr](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.cdr)
-but I exported it to .svg. Check that cutout size is precisely 14mm!)
+(My service actually used CorelDraw [.cdr](https://raw.githubusercontent.com/joric/varmilo/master/files/archive/varmilo-vb87m-plate.cdr)
+but I converted it to .dxf. Check that cutout size is precisely 14mm!)
 
 ### Dimensions
 
