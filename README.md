@@ -5,8 +5,8 @@ DIY project for the leftover Varmilo VB87M plastic case
 ## Video
 
 Since there were no CNC or metal cutting services nearby I used low-power laser to cut plastics.
-First batch was unsuccessfull, the laser was apparently a little off.
-The second batch was fine in size but switches didn't snap, probably wrong kerf.
+First batch was unsuccessfull, the laser was misconfigured, switches didn't snap, probably wrong kerf.
+More pictures here: https://imgur.com/a/HyMhu.
 
 [![](http://img.youtube.com/vi/AoeQSR-c1pQ/0.jpg)](https://www.youtube.com/watch?v=AoeQSR-c1pQ)
 
@@ -33,10 +33,6 @@ Spacebar wire cutouts were originally removed for rigidity, you can use swillkb 
 
 * [KLE layout I used for swillkb](http://www.keyboard-layout-editor.com/#/gists/100ba22bee4c95727a88b61818feb6be)
 * [Plate & Case Builder (swillkb)](http://builder.swillkb.com)
-
-## Pictures
-
-See the full album here: https://imgur.com/a/HyMhu
 
 ## Laser Cutting Services
 
