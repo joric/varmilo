@@ -10,6 +10,10 @@ More pictures here: https://imgur.com/a/HyMhu.
 
 [![](http://img.youtube.com/vi/AoeQSR-c1pQ/0.jpg)](https://www.youtube.com/watch?v=AoeQSR-c1pQ)
 
+## Case
+
+![](https://i.imgur.com/v0MGNCt.jpg)
+
 ## Download
 
 * [varmilo-vb87m-plate.dxf](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.dxf) (latest version, with the spacebar wire cutout)
