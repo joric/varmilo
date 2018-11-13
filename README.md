@@ -14,6 +14,15 @@ More pictures here: https://imgur.com/a/HyMhu.
 
 ![](https://i.imgur.com/v0MGNCt.jpg)
 
+
+## Original plate
+
+![](https://i.imgur.com/PDPaO1y.jpg)
+
+## New plate
+
+![](https://i.imgur.com/oeyLGHy.png)
+
 ## Download
 
 * [varmilo-vb87m-plate.dxf](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.dxf) (latest version, with the spacebar wire cutout)
