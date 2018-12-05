@@ -26,7 +26,6 @@ More pictures here: https://imgur.com/a/HyMhu.
 ## Download
 
 * [varmilo-vb87m-plate.dxf](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.dxf) (latest version, with the spacebar wire cutout)
-* [varmilo-vb87m-plate.cdr](https://raw.githubusercontent.com/joric/varmilo/master/files/archive/varmilo-vb/87m-plate.cdr) (original CorelDraw file from the video)
 
 ## Dimensions
 
