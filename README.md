@@ -23,13 +23,11 @@ More pictures here: https://imgur.com/a/HyMhu.
 
 ![](https://i.imgur.com/oeyLGHy.png)
 
-## Aluminum plate
-
 ![](https://i.imgur.com/qYtICdT.jpg)
 
 ## Download
 
-* [varmilo-vb87m-plate.dxf](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.dxf) (latest version, with the spacebar wire cutout)
+* [varmilo-vb87m-plate.dxf](https://raw.githubusercontent.com/joric/varmilo/master/files/varmilo-vb87m-plate.dxf) (latest version, with the spacebar wire cutout, proven to work)
 
 ## Dimensions
 
