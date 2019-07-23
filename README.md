@@ -53,6 +53,7 @@ Spacebar wire cutouts were originally removed for rigidity, you can use swillkb 
 * https://lasergist.com apparently doesn't work with sheets larger than 300 mm (60% keyboards only)
 * https://laserboost.com wants about 40 EUR for steel and 60 EUR for aluminum (plus 14 EUR shipping)
 * https://www.aliexpress.com/item//32368914717.html (carbon) quoted this plate $30 (plus $10 for shipping)
+* https://www.aliexpress.com/item/32663242418.html Elecrow acrylic cutting service
 
 [1]: http://www.keyboard-layout-editor.com
 [2]: http://builder.swillkb.com
